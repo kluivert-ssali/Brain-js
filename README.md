@@ -1,2 +1,2 @@
-# Brain-js
-Brain.js Simple Examples
+# Brain.js Simple Examples
+
